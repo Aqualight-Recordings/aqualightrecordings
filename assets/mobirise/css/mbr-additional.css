@@ -2185,12 +2185,11 @@ body {
   background-image: url("../../../assets/images/jumbotron.jpg");
 }
 .cid-qB4A03dlfv {
-  padding-top: 60px;
-  padding-bottom: 60px;
   background: #232323;
 }
 .cid-qB4A03dlfv .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-qB4A03dlfv .video-block {
@@ -2253,6 +2252,33 @@ body {
   }
 }
 .cid-qB4MhosfQO UL {
+  text-align: center;
+}
+.cid-qBfMsVxYOj {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-qBfMsVxYOj .title {
+  margin-bottom: 2rem;
+}
+.cid-qBfMsVxYOj .mbr-section-subtitle {
+  color: #f7ed4a;
+}
+.cid-qBfMsVxYOj a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-qBfMsVxYOj a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qBfMsVxYOj .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-qBfMsVxYOj .input-group-btn {
+  display: block;
   text-align: center;
 }
 .cid-qB1UI1WwbJ {
